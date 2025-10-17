@@ -51,6 +51,6 @@ SCRUM | Design Thinking | BPMN | Lean | Kanban | Data-Driven Decision Making
 
 ---
 
-> “El verdadero valor de un ERP no está en el software, sino en la capacidad de transformar datos en decisiones.”
+> “Necesidad claras, implementaciones exitosas”
 
 
